@@ -1,7 +1,5 @@
 # Maze
 
-Goals: Understand recursion and solve a maze
-
 Given a text file representing a maze, as below, find the path for
 creature to get to the exit and mark the path explored.
 ```
